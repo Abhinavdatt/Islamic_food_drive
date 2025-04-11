@@ -14,17 +14,23 @@ Goals & Objectives: As a team we aim to work collaboratively to build and evalua
 
  
 
-### PROJECT TITLE: Project Title
+### PROJECT TITLE: Islamic_food_drive
 
-Welcome to the repository for our Capstone project at Norquest College. This project aims to ...
+
+Overview: The Islamic Food Drive Project is based on predicting overall demand of food hampers based on seasonality, family size, and special events. Our focus is on building a robust system which will help the organizers to plan more effectively by identifying the food distribution patterns in food pickup. By combining our technical skills with community insight, we aim to develop a meaningful tool for the Islamic Food Drive to support and make the food distribution more efficient.
+Goals & Objectives: As a team we aim to work collaboratively to build and evaluate machine learning models which will forecast pickups by considering seasonal fluctuations, family size and special events. We had performed in-depth analysis for conducting time-series analysis as well as feature engineering to understand the trends in data and prepare clean, structured data for modelling. Then the Streamlit application was developed to make predictions for food hamper distribution. The major goal was to make the food drive more successful by developing a practical tool which will enhance forecasting accuracy and help in real-time decision-making.
 
 ### Problem Statement
 
-Describe Problem statement here
+ OverallDemandPrediction Based on Seasonality, Special Occasions, and Family Size
+ The objective is to forecast the overall demand for food hampers over future periods by considering factors like seasonal fluctuations,
+ special religious occasions, and family size. Accurate predictions will enable better planning for inventory, staffing, and resource allocation,
+ particularly during peak periods.
 
 ### Solution
 
-Proposed Solution & Models used
+To build a machine learning model that accurately predicts overall demand by analyzing seasonality, special occasions and family size data![image](https://github.com/user-attachments/assets/8f625cd8-fe2b-42f3-9fb4-69a1eabdd862)
+
 
 ### Repository Structure
 
@@ -40,11 +46,12 @@ To get started with our project, clone the repository and install the required d
 
 
 ### Link to Application
+https://3yckwy3p3dcy75peng4eht.streamlit.app/
 
-[Link to Demo 1](https://mazon1-apps-appapp-8sfsyx.streamlit.app/)
 
 ### Team Members
 
 Our team consists of the following members:
-
-[Uchenna Mgbaja](https://www.linkedin.com/in/marianmgbaja/)
+Abhinav datt :https://www.linkedin.com/in/abhinav-datt-8a726128a/
+Muskaan:
+Sukhjinder Kaur: 
