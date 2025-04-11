@@ -6,7 +6,7 @@
 
 
 
-# <h1 align="center" id="heading"># Project Title-Team Members: Person 1, Person 2
+# <h1 align="center" id="heading"># Islamic_food_drive-Team Members: Abhinav, Muskaan, SukhJinder Kaur
 </h1>
 
 
